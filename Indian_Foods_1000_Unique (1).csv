@@ -1,0 +1,1001 @@
+Food Name,Category,Veg/Non-Veg,Food Type,Tags,Calories (kcal),Protein (g),Carbs (g),Fat (g)
+Masala Dosa - Region 1,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 1,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 1,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 1,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 1,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 1,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 1,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 1,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 1,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 1,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 1,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 1,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 1,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 1,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 1,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 1,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 1,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 1,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 1,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 2,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 2,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 2,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 2,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 2,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 2,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 2,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 2,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 2,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 2,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 2,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 2,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 2,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 2,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 2,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 2,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 2,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 2,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 2,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 3,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 3,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 3,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 3,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 3,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 3,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 3,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 3,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 3,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 3,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 3,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 3,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 3,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 3,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 3,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 3,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 3,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 3,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 3,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 4,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 4,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 4,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 4,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 4,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 4,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 4,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 4,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 4,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 4,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 4,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 4,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 4,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 4,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 4,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 4,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 4,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 4,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 4,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 5,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 5,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 5,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 5,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 5,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 5,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 5,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 5,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 5,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 5,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 5,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 5,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 5,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 5,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 5,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 5,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 5,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 5,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 5,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 6,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 6,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 6,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 6,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 6,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 6,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 6,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 6,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 6,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 6,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 6,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 6,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 6,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 6,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 6,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 6,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 6,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 6,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 6,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 7,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 7,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 7,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 7,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 7,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 7,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 7,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 7,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 7,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 7,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 7,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 7,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 7,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 7,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 7,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 7,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 7,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 7,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 7,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 8,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 8,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 8,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 8,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 8,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 8,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 8,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 8,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 8,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 8,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 8,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 8,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 8,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 8,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 8,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 8,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 8,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 8,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 8,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 9,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 9,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 9,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 9,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 9,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 9,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 9,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 9,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 9,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 9,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 9,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 9,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 9,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 9,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 9,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 9,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 9,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 9,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 9,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 10,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 10,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 10,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 10,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 10,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 10,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 10,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 10,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 10,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 10,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 10,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 10,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 10,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 10,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 10,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 10,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 10,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 10,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 10,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 11,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 11,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 11,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 11,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 11,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 11,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 11,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 11,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 11,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 11,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 11,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 11,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 11,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 11,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 11,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 11,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 11,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 11,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 11,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 12,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 12,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 12,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 12,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 12,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 12,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 12,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 12,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 12,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 12,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 12,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 12,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 12,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 12,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 12,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 12,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 12,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 12,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 12,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 13,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 13,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 13,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 13,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 13,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 13,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 13,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 13,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 13,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 13,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 13,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 13,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 13,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 13,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 13,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 13,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 13,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 13,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 13,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 14,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 14,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 14,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 14,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 14,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 14,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 14,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 14,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 14,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 14,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 14,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 14,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 14,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 14,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 14,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 14,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 14,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 14,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 14,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 15,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 15,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 15,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 15,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 15,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 15,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 15,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 15,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 15,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 15,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 15,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 15,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 15,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 15,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 15,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 15,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 15,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 15,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 15,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 16,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 16,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 16,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 16,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 16,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 16,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 16,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 16,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 16,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 16,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 16,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 16,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 16,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 16,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 16,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 16,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 16,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 16,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 16,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 17,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 17,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 17,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 17,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 17,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 17,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 17,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 17,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 17,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 17,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 17,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 17,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 17,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 17,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 17,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 17,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 17,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 17,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 17,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 18,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 18,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 18,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 18,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 18,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 18,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 18,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 18,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 18,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 18,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 18,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 18,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 18,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 18,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 18,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 18,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 18,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 18,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 18,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 19,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 19,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 19,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 19,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 19,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 19,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 19,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 19,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 19,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 19,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 19,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 19,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 19,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 19,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 19,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 19,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 19,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 19,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 19,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 20,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 20,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 20,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 20,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 20,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 20,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 20,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 20,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 20,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 20,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 20,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 20,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 20,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 20,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 20,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 20,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 20,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 20,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 20,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 21,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 21,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 21,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 21,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 21,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 21,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 21,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 21,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 21,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 21,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 21,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 21,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 21,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 21,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 21,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 21,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 21,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 21,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 21,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 22,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 22,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 22,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 22,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 22,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 22,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 22,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 22,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 22,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 22,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 22,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 22,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 22,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 22,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 22,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 22,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 22,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 22,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 22,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 23,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 23,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 23,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 23,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 23,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 23,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 23,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 23,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 23,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 23,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 23,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 23,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 23,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 23,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 23,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 23,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 23,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 23,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 23,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 24,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 24,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 24,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 24,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 24,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 24,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 24,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 24,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 24,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 24,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 24,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 24,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 24,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 24,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 24,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 24,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 24,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 24,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 24,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 25,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 25,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 25,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 25,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 25,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 25,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 25,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 25,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 25,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 25,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 25,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 25,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 25,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 25,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 25,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 25,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 25,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 25,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 25,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 26,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 26,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 26,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 26,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 26,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 26,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 26,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 26,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 26,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 26,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 26,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 26,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 26,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 26,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 26,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 26,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 26,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 26,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 26,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 27,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 27,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 27,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 27,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 27,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 27,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 27,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 27,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 27,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 27,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 27,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 27,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 27,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 27,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 27,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 27,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 27,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 27,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 27,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 28,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 28,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 28,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 28,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 28,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 28,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 28,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 28,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 28,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 28,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 28,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 28,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 28,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 28,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 28,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 28,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 28,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 28,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 28,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 29,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 29,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 29,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 29,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 29,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 29,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 29,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 29,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 29,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 29,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 29,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 29,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 29,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 29,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 29,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 29,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 29,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 29,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 29,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 30,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 30,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 30,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 30,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 30,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 30,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 30,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 30,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 30,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 30,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 30,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 30,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 30,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 30,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 30,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 30,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 30,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 30,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 30,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 31,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 31,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 31,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 31,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 31,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 31,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 31,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 31,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 31,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 31,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 31,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 31,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 31,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 31,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 31,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 31,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 31,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 31,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 31,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 32,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 32,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 32,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 32,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 32,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 32,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 32,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 32,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 32,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 32,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 32,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 32,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 32,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 32,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 32,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 32,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 32,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 32,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 32,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 33,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 33,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 33,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 33,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 33,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 33,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 33,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 33,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 33,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 33,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 33,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 33,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 33,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 33,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 33,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 33,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 33,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 33,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 33,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 34,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 34,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 34,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 34,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 34,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 34,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 34,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 34,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 34,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 34,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 34,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 34,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 34,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 34,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 34,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 34,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 34,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 34,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 34,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 35,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 35,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 35,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 35,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 35,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 35,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 35,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 35,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 35,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 35,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 35,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 35,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 35,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 35,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 35,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 35,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 35,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 35,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 35,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 36,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 36,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 36,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 36,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 36,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 36,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 36,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 36,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 36,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 36,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 36,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 36,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 36,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 36,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 36,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 36,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 36,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 36,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 36,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 37,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 37,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 37,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 37,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 37,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 37,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 37,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 37,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 37,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 37,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 37,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 37,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 37,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 37,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 37,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 37,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 37,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 37,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 37,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 38,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 38,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 38,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 38,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 38,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 38,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 38,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 38,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 38,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 38,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 38,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 38,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 38,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 38,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 38,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 38,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 38,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 38,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 38,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 39,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 39,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 39,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 39,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 39,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 39,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 39,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 39,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 39,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 39,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 39,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 39,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 39,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 39,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 39,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 39,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 39,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 39,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 39,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 40,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 40,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 40,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 40,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 40,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 40,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 40,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 40,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 40,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 40,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 40,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 40,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 40,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 40,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 40,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 40,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 40,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 40,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 40,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 41,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 41,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 41,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 41,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 41,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 41,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 41,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 41,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 41,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 41,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 41,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 41,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 41,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 41,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 41,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 41,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 41,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 41,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 41,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 42,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 42,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 42,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 42,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 42,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 42,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 42,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 42,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 42,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 42,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 42,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 42,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 42,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 42,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 42,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 42,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 42,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 42,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 42,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 43,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 43,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 43,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 43,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 43,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 43,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 43,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 43,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 43,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 43,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 43,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 43,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 43,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 43,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 43,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 43,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 43,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 43,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 43,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 44,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 44,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 44,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 44,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 44,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 44,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 44,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 44,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 44,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 44,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 44,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 44,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 44,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 44,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 44,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 44,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 44,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 44,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 44,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 45,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 45,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 45,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 45,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 45,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 45,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 45,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 45,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 45,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 45,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 45,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 45,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 45,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 45,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 45,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 45,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 45,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 45,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 45,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 46,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 46,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 46,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 46,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 46,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 46,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 46,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 46,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 46,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 46,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 46,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 46,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 46,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 46,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 46,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 46,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 46,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 46,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 46,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 47,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 47,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 47,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 47,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 47,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 47,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 47,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 47,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 47,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 47,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 47,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 47,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 47,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 47,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 47,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 47,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 47,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 47,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 47,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 48,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 48,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 48,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 48,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 48,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 48,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 48,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 48,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 48,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 48,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 48,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 48,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 48,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 48,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 48,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 48,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 48,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 48,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 48,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 49,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 49,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 49,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 49,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 49,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 49,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 49,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 49,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 49,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 49,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 49,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 49,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 49,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 49,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 49,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 49,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 49,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 49,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 49,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 50,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 50,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 50,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 50,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 50,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 50,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 50,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 50,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 50,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 50,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 50,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 50,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 50,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 50,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 50,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 50,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 50,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 50,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 50,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 51,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 51,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 51,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 51,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 51,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 51,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 51,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 51,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 51,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 51,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 51,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 51,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 51,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 51,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 51,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 51,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 51,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 51,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 51,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 52,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 52,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 52,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 52,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 52,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 52,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 52,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 52,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 52,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 52,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 52,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 52,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
+Rasgulla - Region 52,Dessert,Veg,Homely,"Bengali, Sweet",150,4,30,2
+Gulab Jamun - Region 52,Dessert,Veg,Homely,"North Indian, Sweet",175,4,35,5
+Fish Curry - Region 52,Dinner,Non-Veg,Homely,"South Indian, Seafood",300,25,10,15
+Pav Bhaji - Region 52,Dinner,Veg,Fast Food,"Maharashtrian, Spicy",400,8,45,15
+Dhokla - Region 52,Snack,Veg,Healthy,"Gujarati, Steamed",150,5,25,3
+Puran Poli - Region 52,Dessert,Veg,Homely,"Maharashtrian, Sweet",200,6,35,5
+Bhindi Masala - Region 52,Lunch,Veg,Healthy,"North Indian, Homely",180,4,15,10
+Masala Dosa - Region 53,Breakfast,Veg,Healthy,"South Indian, Dosa",206,5,32,7
+Butter Chicken - Region 53,Dinner,Non-Veg,Homely,"Punjabi, Chicken",490,25,15,35
+Paneer Tikka - Region 53,Starter,Veg,Homely,"Tandoor, Paneer",280,14,8,22
+Aloo Paratha - Region 53,Breakfast,Veg,Homely,"Punjabi, Paratha",270,6,36,10
+Chicken Biryani - Region 53,Lunch,Non-Veg,Fast Food,"Biryani, Chicken",550,22,65,20
+Idli - Region 53,Breakfast,Veg,Healthy,"South Indian, Steamed",120,2,24,1
+Samosa - Region 53,Snack,Veg,Fast Food,"North Indian, Fried",260,4,32,12
+Rajma Chawal - Region 53,Lunch,Veg,Homely,"Punjabi, Rice",320,12,50,5
+Mutton Rogan Josh - Region 53,Dinner,Non-Veg,Homely,"Kashmiri, Mutton",430,28,10,32
+Palak Paneer - Region 53,Lunch,Veg,Healthy,"North Indian, Paneer",220,12,10,16
+Chole Bhature - Region 53,Breakfast,Veg,Fast Food,"Punjabi, Chickpea",450,10,50,20
+Vada Pav - Region 53,Snack,Veg,Fast Food,"Maharashtrian, Spicy",300,6,40,10
